@@ -38,4 +38,4 @@ An example user is already inserted into the database using the `file.sql` scrip
 - For a production application, you should handle password encryption securely using BCrypt or another strong encryption algorithm. This application uses `BCryptPasswordEncoder` from Spring Security to hash passwords securely.
 - The application uses Thymeleaf templates for rendering the views.
 
-Please make sure to change the necessary properties and configure your database appropriately before running the application. Enjoy exploring and extending this basic user management application!`
+Please make sure to change the necessary properties and configure your database appropriately before running the application. Enjoy exploring and extending this basic user management application!
